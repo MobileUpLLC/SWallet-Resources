@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 64 64"
+   xml:space="preserve"
+   sodipodi:docname="ARB.svg"
+   width="64"
+   height="64"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs9" /><sodipodi:namedview
+   id="namedview9"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:zoom="1.1072047"
+   inkscape:cx="250.17959"
+   inkscape:cy="99.800881"
+   inkscape:window-width="1440"
+   inkscape:window-height="900"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="Layer_1" />
+<style
+   type="text/css"
+   id="style1">
+	.st0{fill:none;}
+	.st1{fill:#213147;}
+	.st2{fill:#12AAFF;}
+	.st3{fill:#9DCCED;}
+	.st4{fill:#FFFFFF;}
+</style>
+<g
+   id="Layer_x0020_1"
+   transform="scale(0.0256)">
+	<g
+   id="_2405588477232">
+		<rect
+   class="st0"
+   width="2500"
+   height="2500"
+   id="rect1"
+   x="0"
+   y="0" />
+		<g
+   id="g9">
+			<g
+   id="g8">
+				<path
+   class="st1"
+   d="m 226,760 v 980 c 0,63 33,120 88,152 l 849,490 c 54,31 121,31 175,0 l 849,-490 c 54,-31 88,-89 88,-152 V 760 c 0,-63 -33,-120 -88,-152 L 1338,118 c -54,-31 -121,-31 -175,0 L 314,608 c -54,31 -87,89 -87,152 z"
+   id="path1" />
+				<g
+   id="g5">
+					<g
+   id="g4">
+						<g
+   id="g2">
+							<path
+   class="st2"
+   d="m 1435,1440 -121,332 c -3,9 -3,19 0,29 l 208,571 241,-139 -289,-793 c -7,-18 -32,-18 -39,0 z"
+   id="path2" />
+						</g>
+						<g
+   id="g3">
+							<path
+   class="st2"
+   d="m 1678,882 c -7,-18 -32,-18 -39,0 l -121,332 c -3,9 -3,19 0,29 l 341,935 241,-139 -422,-1156 z"
+   id="path3" />
+						</g>
+					</g>
+				</g>
+				<g
+   id="g6">
+					<path
+   class="st3"
+   d="m 1250,155 c 6,0 12,2 17,5 l 918,530 c 11,6 17,18 17,30 v 1060 c 0,12 -7,24 -17,30 l -918,530 c -5,3 -11,5 -17,5 -6,0 -12,-2 -17,-5 L 315,1810 c -11,-6 -17,-18 -17,-30 V 719 c 0,-12 7,-24 17,-30 l 918,-530 c 5,-3 11,-5 17,-5 v 0 z m 0,-155 c -33,0 -65,8 -95,25 L 237,555 c -59,34 -95,96 -95,164 v 1060 c 0,68 36,130 95,164 l 918,530 c 29,17 62,25 95,25 33,0 65,-8 95,-25 l 918,-530 c 59,-34 95,-96 95,-164 V 719 c 0,-68 -36,-130 -95,-164 L 1344,25 C 1315,8 1282,0 1249,0 v 0 z"
+   id="path5" />
+				</g>
+				<polygon
+   class="st1"
+   points="642,2179 727,1947 897,2088 738,2234 "
+   id="polygon6" />
+				<g
+   id="g7">
+					<path
+   class="st4"
+   d="M 1172,644 H 939 c -17,0 -33,11 -39,27 L 401,2039 642,2178 1192,671 c 5,-14 -5,-28 -19,-28 z"
+   id="path6" />
+					<path
+   class="st4"
+   d="m 1580,644 h -233 c -17,0 -33,11 -39,27 L 738,2233 979,2372 1599,671 c 5,-14 -5,-28 -19,-28 z"
+   id="path7" />
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

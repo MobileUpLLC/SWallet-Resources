@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 26.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 64 64"
+   xml:space="preserve"
+   sodipodi:docname="BNB.svg"
+   width="64"
+   height="64"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs4" /><sodipodi:namedview
+   id="namedview4"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:zoom="3.8254195"
+   inkscape:cx="25.225991"
+   inkscape:cy="75.155155"
+   inkscape:window-width="1440"
+   inkscape:window-height="900"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="Layer_1" />
+<g
+   id="g4"
+   transform="scale(0.99882964)">
+	
+	
+	
+	
+	<path
+   style="clip-rule:evenodd;fill:#f0b90b;fill-rule:evenodd;stroke-width:0.0256711"
+   d="m 32.037495,0 c 17.695069,0 32.037496,14.342427 32.037496,32.037495 0,17.695069 -14.342427,32.037496 -32.037496,32.037496 C 14.342427,64.074991 0,49.732564 0,32.037495 0,14.342427 14.342427,0 32.037495,0 Z"
+   id="path1" /><path
+   style="fill:#ffffff;stroke-width:0.0256711"
+   d="m 17.607787,32.037495 0.0231,8.471453 7.198168,4.235727 v 4.959651 L 13.418268,43.011878 V 29.560237 Z m 0,-8.471453 v 4.936547 l -4.192086,-2.479825 v -4.936547 l 4.192086,-2.479825 4.212622,2.479825 z m 10.227354,-2.479825 4.192086,-2.479825 4.212623,2.479825 -4.212623,2.479825 z"
+   id="path2" /><path
+   style="fill:#ffffff;stroke-width:0.0256711"
+   d="m 20.636973,38.753047 v -4.95965 l 4.192086,2.479825 v 4.936547 z m 7.198168,7.768066 4.192086,2.479825 4.212623,-2.479825 v 4.936547 l -4.212623,2.479825 -4.192086,-2.479825 z m 14.416873,-25.434896 4.192086,-2.479825 4.212622,2.479825 v 4.936547 L 46.4441,28.502589 v -4.936547 z m 4.192086,19.422731 0.0231,-8.471453 4.192086,-2.479825 v 13.451641 l -11.410791,6.692448 v -4.959651 z"
+   id="path3" /><polygon
+   style="fill:#ffffff"
+   points="1692.1,1316.4 1692.1,1509.6 1528.8,1605.3 1528.8,1413 "
+   id="polygon3"
+   transform="scale(0.02567107)" /><path
+   style="fill:#ffffff;stroke-width:0.0256711"
+   d="m 43.438018,25.321943 0.0231,4.959651 -7.218705,4.235727 v 8.49199 l -4.192086,2.456721 -4.192086,-2.456721 v -8.49199 L 20.63954,30.281594 v -4.959651 l 4.210056,-2.479825 7.175064,4.256263 7.218705,-4.256263 4.212622,2.479825 z m -22.801045,-8.468886 11.390254,-6.715551 11.410791,6.715551 -4.192086,2.479826 -7.218705,-4.256264 -7.198168,4.256264 z"
+   id="path4" />
+</g>
+</svg>
